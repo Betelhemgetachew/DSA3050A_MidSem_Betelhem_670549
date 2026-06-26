@@ -9,7 +9,7 @@
 ## 1. Dataset Source
 
 **Dataset:** Brazilian E-Commerce Public Dataset by Olist
-**Source:** Kaggle — [https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+**Source:** Kaggle - [https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 This is a genuine, real-world e-commerce dataset published by Olist, a Brazilian online marketplace. It was downloaded directly from Kaggle without any modification, fabrication, or row-count inflation. Six of the original files were used:
 
