@@ -1,4 +1,4 @@
-# DSA 3050A — Business Intelligence & Visualization
+# DSA 3050A - Business Intelligence & Visualization
 ## Mid-Semester Practical Examination
 
 **Student Name:** Betelhem Getachew Kebede
