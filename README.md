@@ -99,6 +99,8 @@ To provide complete transformation history across the data model, Applied Steps 
 | `f. AppliedSteps_NameTranslation_Query.png` | Category Name Translation query |
 | `g. AppliedSteps_Reference_Query.png` | Reference Query (used for Group By summary) |
 
+![Applied Steps](Screenshots/AppliedSteps_ScreenShots/AppliedSteps_MergedQuery.png)
+
 ### Column Profiling
 
 | Screenshot | Details |
