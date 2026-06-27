@@ -117,7 +117,7 @@ This hybrid structure kept the model lightweight while still satisfying the Merg
 
 **Screenshot:** `Model_View_of_the_Data.png` - shows the relationships connecting all tables in Power BI's Model view.
 
-![Model View of the Data](Screenshots/Model_View_of_the_Data.png)
+![Model View of the Data](Screenshots/Model_View_of the_Data.png)
 
 ---
 
