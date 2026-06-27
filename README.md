@@ -107,6 +107,8 @@ To provide complete transformation history across the data model, Applied Steps 
 |---|---|
 | `Column_Profile.png` | Column Quality, Column Distribution, and Column Profile enabled under the View tab, with profiling set to the entire dataset. Used to identify missing values (e.g. in delivery dates and product category), and to confirm distinct vs. total row counts when checking for duplicates |
 
+![Column Profile](Screenshots/Column_Profile.png)
+
 ---
 
 ## 4. Data Model
