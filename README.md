@@ -22,7 +22,7 @@ This is a genuine, real-world e-commerce dataset published by Olist, a Brazilian
 | `olist_products_dataset.csv` | 32,951 | 9 | Product category and attributes |
 | `product_category_name_translation.csv` | 71 | 2 | Portuguese-to-English category name mapping |
 
-All files together comfortably exceed the minimum requirement of 10,000 rows and 10 columns.
+Merging all the files together comfortably exceed the minimum requirement of 10,000 rows and 10 columns.
 
 ---
 
