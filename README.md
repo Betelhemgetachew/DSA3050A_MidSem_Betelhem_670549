@@ -122,6 +122,9 @@ This hybrid structure kept the model lightweight while still satisfying the Merg
 ## 5. Visuals Created
 
 ### Page 1 — Executive Overview
+
+![Dashboard Page 1](Screenshots/Dashboard.png)
+
 | Visual | Screenshot | Description |
 |---|---|---|
 | KPI Cards (×3) | `Dashboard.png` | Total Revenue, Total Orders, Average Freight Value |
@@ -133,15 +136,28 @@ This hybrid structure kept the model lightweight while still satisfying the Merg
 | Slicers (×3) | `Dashboard.png` | order_status, payment_type, Year |
 
 ### Page 2 — Regional & Category Breakdown
+
+![Dashboard Page 2](Screenshots/Dashboard_page2.png)
+
 | Visual | Screenshot | Description |
 |---|---|---|
-| Treemap | `Dashboard_page 2.png` | Sum of price by product category, filtered to top categories |
-| Table | `Dashboard_page 2.png` | Order status counts (canceled/delivered/shipped) by customer state |
-| Map | `Dashboard_page 2.png` | Sum of price by customer state, plotted geographically |
-| Matrix/Table | `Dashboard_page 2.png` | Sum of Total Orders and Sum of Total Sales by customer state |
-| Slicers (×3, synced) | `Dashboard_page 2.png` | order_status, payment_type, Year |
+| Treemap | `Dashboard_page2.png` | Sum of price by product category, filtered to top categories |
+| Table | `Dashboard_page2.png` | Order status counts (canceled/delivered/shipped) by customer state |
+| Map | `Dashboard_page2.png` | Sum of price by customer state, plotted geographically |
+| Matrix/Table | `Dashboard_page2.png` | Sum of Total Orders and Sum of Total Sales by customer state |
+| Slicers (×3, synced) | `Dashboard_page2.png` | order_status, payment_type, Year |
 
 ### Interactivity Evidence
+
+**Before filtering:**
+![Dashboard Default View](Screenshots/Dashboard.png)
+
+**After filtering (cross-filtering demonstrated):**
+![Dashboard After Filtering](Screenshots/Dashboard_After_Filtering.png)
+
+**Drill-down on line chart:**
+![Drill Down](Screenshots/Drill_down_on_a_Line_Graph.png)
+
 | Screenshot | Demonstrates |
 |---|---|
 | `Dashboard_After_Filtering.png` | Cross-filtering: dashboard state after a slicer/visual selection is applied, compared against the default (unfiltered) view in `Dashboard.png` |
@@ -239,7 +255,7 @@ DSA3050A_MidSem_Betelhem_670549/
 │   ├── Model_View_of_the_Data.png
 │   ├── Dashboard.png
 │   ├── Dashboard_After_Filtering.png
-│   ├── Dashboard_page 2.png
+│   ├── Dashboard_page2.png
 │   ├── Drill_down_on_a_Line_Graph.png
 │   └── Final_Cleaned_Dataset.png
 │
