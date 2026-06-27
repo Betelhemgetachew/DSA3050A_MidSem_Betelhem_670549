@@ -116,6 +116,7 @@ The data model uses a combination of:
 This hybrid structure kept the model lightweight while still satisfying the Merge Queries requirement and supporting cross-table analysis (e.g. category names and payment types) through native Power BI relationships.
 
 **Screenshot:** `Model_View_of_the_Data.png` - shows the relationships connecting all tables in Power BI's Model view.
+
 ![Model View of the Data](Screenshots/Model_View_of_the_Data.png)
 
 ---
