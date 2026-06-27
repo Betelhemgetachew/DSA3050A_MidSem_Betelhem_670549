@@ -1,4 +1,4 @@
-# DSA 3050A — Business Intelligence & Visualization
+# DSA 3050A - Business Intelligence & Visualization
 ## Mid-Semester Practical Examination
 
 **Student Name:** Betelhem Getachew Kebede
@@ -9,7 +9,7 @@
 ## 1. Dataset Source
 
 **Dataset:** Brazilian E-Commerce Public Dataset by Olist
-**Source:** Kaggle — [https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+**Source:** Kaggle - [https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 This is a genuine, real-world e-commerce dataset published by Olist, a Brazilian online marketplace. It was downloaded directly from Kaggle without any modification, fabrication, or row-count inflation. Six of the original files were used:
 
@@ -115,7 +115,7 @@ The data model uses a combination of:
 
 This hybrid structure kept the model lightweight while still satisfying the Merge Queries requirement and supporting cross-table analysis (e.g. category names and payment types) through native Power BI relationships.
 
-**Screenshot:** `Model_View_of_the_Data.png` — shows the relationships connecting all tables in Power BI's Model view.
+**Screenshot:** `Model_View_of_the_Data.png` - shows the relationships connecting all tables in Power BI's Model view.
 
 ---
 
