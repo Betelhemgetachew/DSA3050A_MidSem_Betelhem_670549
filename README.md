@@ -274,6 +274,6 @@ DSA3050A_MidSem_Betelhem_670549/
 
 ## 8. Tools Used
 
-- **Power BI Desktop** — data modeling, transformation, and dashboard development
-- **Power Query Editor** — ETL (Extract, Transform, Load) process
-- **DAX** — calculated measure for On-Time Delivery Rate
+- **Power BI Desktop** - data modeling, transformation, and dashboard development
+- **Power Query Editor** - ETL (Extract, Transform, Load) process
+- **DAX** - calculated measure for On-Time Delivery Rate
